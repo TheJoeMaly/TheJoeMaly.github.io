@@ -22,7 +22,6 @@ Really cool looking textbox eh?
 
 **I like your beans** and _You're kinda a gem_ and `yoga please later` text
 
-[Link](url) and ![Image](src)
 ```
 
 For more details, **Just text me babe**
