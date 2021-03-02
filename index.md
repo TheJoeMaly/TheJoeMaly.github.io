@@ -6,7 +6,7 @@ Whenever you come show up on this website i get a little update (yea, i know how
 
 ### Anyways
 
-i hope you are having a pretty sweet day, my days okay im pretty tired tbh. I just wanna cuddle you dude smh
+i hope you are having a pretty sweet day, my days okay im pretty tired tbh. I just wanna cuddle you dude
 ```markdown 
 Really cool looking textbox eh?
 
@@ -20,7 +20,7 @@ Really cool looking textbox eh?
 1. You're
 2. The Best
 
-**I like your beans** and _You're kinda a gem_ and `yoga please later` text
+**I like your beans** and _You're kinda a gem_ and `yoga please later`
 
 ```
 
