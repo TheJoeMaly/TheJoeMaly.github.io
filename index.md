@@ -8,29 +8,32 @@ Whenever you come show up on this website i get a little update (yea, i know how
 
 i hope you are having a pretty sweet day, my days okay im pretty tired tbh. I just wanna cuddle you dude smh
 ```markdown 
-Syntax highlighted code block
+Really cool looking textbox eh?
 
-# Header 1
-## Header 2
-### Header 3
+# Some reason's why it's hard to not always think about you
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+- You are super fun to be around and you make me smile
+- We have a similar type of humour
+- we can basically read each others brains / finish each others sentences
 
-**Bold** and _Italic_ and `Code` text
+1. You're
+2. The Best
+
+**I like your beans** and _You're kinda a gem_ and `yoga please later` text
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details, **Just text me babe**
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TheJoeMaly/TheJoeMaly.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### I miss you
+I'm not gonna lie the above statement is pretty true. You bring joy to my day and I wish I could be with you right now. Who knows? maybe i am, maybe i'm with you virtually maybe im with you mentally, physically, habitually (honestly, i wouldn't be able to tell you)
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Joe Maly? Please text my number and we’ll help you sort it out. 
+
+
+
+## Sincerely, Joe 
