@@ -1,14 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to my Page Macey Baby
 
-You can use the [editor on GitHub](https://github.com/TheJoeMaly/TheJoeMaly.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+if you want to know something really cool you should definitely [click me](https://www.youtube.com/watch?v=E3fX2_bxEkg) and just ~vibe~
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you come show up on this website i get a little update (yea, i know how many times you came here, i know how many times you clicked the website, i know everything) just kidding :) or am i ;)
 
-### Markdown
+### Anyways
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
+i hope you are having a pretty sweet day, my days okay im pretty tired tbh. I just wanna cuddle you dude smh
+```markdown 
 Syntax highlighted code block
 
 # Header 1
